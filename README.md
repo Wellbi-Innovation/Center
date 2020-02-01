@@ -1,2 +1,2 @@
-# Wellbi
-Wellbi Center : Shared Wellbeing
+# Wellbi Center
+Shared Innovation Wellbeing
